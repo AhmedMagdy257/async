@@ -1,0 +1,10 @@
+2024-08-07 02:42:10.936 +03:00 [INF] Error Info : System.Exception: Exception of type 'System.Exception' was thrown.
+   at async.Test.Demo() in C:\Users\amabdelhamid\source\repos\assync\assync\Test.cs:line 41
+2024-08-07 02:42:10.991 +03:00 [FTL] Error Fatal : System.Exception: Exception of type 'System.Exception' was thrown.
+   at async.Test.Demo() in C:\Users\amabdelhamid\source\repos\assync\assync\Test.cs:line 41
+2024-08-07 02:42:10.994 +03:00 [ERR] Error Occur : System.Exception: Exception of type 'System.Exception' was thrown.
+   at async.Test.Demo() in C:\Users\amabdelhamid\source\repos\assync\assync\Test.cs:line 41
+2024-08-07 02:43:16.273 +03:00 [ERR] Error Occur : System.Exception: Exception of type 'System.Exception' was thrown.
+   at async.Test.Demo() in C:\Users\amabdelhamid\source\repos\assync\assync\Test.cs:line 41
+2024-08-07 02:45:11.092 +03:00 [ERR] Error Occur : System.Exception: Exception of type 'System.Exception' was thrown.
+   at async.Test.Demo() in C:\Users\amabdelhamid\source\repos\assync\assync\Test.cs:line 41
